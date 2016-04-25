@@ -2,3 +2,9 @@
 - wisAgr.erwin		ERWIN模型
 - wisAgr_FIELD.txt	字段级映射文件
 - wisAgr_TABLE.txt	表名映射文件
+
+# Erwin version
+- Release: 7.2.0.1644
+
+# Erwin setting
+- Url: http://blog.csdn.net/huaxin520/article/details/7799046
