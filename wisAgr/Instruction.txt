@@ -1,0 +1,4 @@
+# Description of all folders and files
+- wisAgr.erwin		ERWIN模型
+- wisAgr_FIELD.txt	字段级映射文件
+- wisAgr_TABLE.txt	表名映射文件
